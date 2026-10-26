@@ -32,3 +32,14 @@
   ],
   "exclude": ["node_modules"]
 }
+
+
+npx shadcn@latest add button 
+npx shadcn@latest add card
+npx shadcn@latest add input 
+npx shadcn@latest add textarea
+npx shadcn@latest add progress
+npx shadcn@latest add sooner
+npx shadcn@latest add tabs
+npx shadcn@latest add badge
+npx shadcn@latest add separator
